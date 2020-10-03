@@ -2,4 +2,4 @@
 
 Hi everybody!
 
-I'm Tram. I like to study the lines of code.
+I'm Tram .I love studying lines of code and learning code from people.
